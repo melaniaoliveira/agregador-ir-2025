@@ -1,0 +1,40 @@
+# Agregador de Informações para Imposto de Renda 2025
+
+Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conhecimentos em Excel, organização de dados e documentação técnica.
+
+## 📊 Objetivo
+Construir uma planilha no Excel para ajudar o usuário a organizar informações essenciais para a declaração do Imposto de Renda de forma intuitiva e eficiente.
+
+## 🛠 Funcionalidades
+
+- Aba **Menu** com navegação rápida
+- Validação de dados com menus suspensos
+- Organização por categorias:
+  - Receitas
+  - Despesas Dedutíveis
+  - Bens
+  - Pagamentos e Doações
+- Aba de **Resumo Automático**
+- Links úteis para sites da Receita Federal
+
+## 🧩 Tecnologias e Ferramentas
+- Microsoft Excel
+- Validação de dados
+- Git e GitHub
+
+## 📝 Como Usar
+1. Baixe o arquivo `Agregador_IR_2025.xlsx`
+2. Abra no Excel
+3. Navegue pelas abas para preencher seus dados
+4. Verifique a aba “Resumo” para ver os totais
+
+## 📷 Capturas de Tela
+Veja as imagens na pasta `/images` (opcional).
+
+## 🔗 Links Úteis
+- [Receita Federal](https://www.gov.br/receitafederal)
+- [Simulador IRPF](https://www.gov.br/receitafederal/pt-br)
+
+---
+
+Desenvolvido por Melânia Oliveira Matias Dantas
